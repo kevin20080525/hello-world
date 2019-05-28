@@ -1,3 +1,3 @@
 # hello-world
-beginner 
+beginner.
 First try.
